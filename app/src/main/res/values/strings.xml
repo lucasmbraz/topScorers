@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Top Scorers</string>
+
+    <plurals name="goals">
+        <item quantity="one">1 goal</item>
+        <item quantity="other">%1$d goals</item>
+    </plurals>
+
+    <!--Error messages-->
+    <string name="sad_path_generic_title">Oh no!</string>
+    <string name="sad_path_generic_message">Something went wrong. Please try again later.</string>
+
+    <string name="sad_path_no_scorers_title">No one\'s scored a goal yet</string>
+    <string name="sad_path_no_scorers_message">Please try again after a game.</string>
+</resources>
